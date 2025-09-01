@@ -259,9 +259,10 @@ function addHoverSoundEffects() {
         .cash-out,
         .header-btn,
         .view-full-btn,
-        .wallet-action,
+        .wallet-action-btn,
         .refresh-btn,
-        .bottom-btn,
+        .add-friends-btn,
+        .change-appearance-btn,
         .affiliate-btn-center,
         .discord-floating
     `);
